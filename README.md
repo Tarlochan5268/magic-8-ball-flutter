@@ -2,6 +2,7 @@
 
 
 # Magic 8 Ball 🎱
+This Challenge is completed by Tarlochan
 
 ## Our Goal
 
